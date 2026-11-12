@@ -1,0 +1,19 @@
+{
+  "show": {
+    "title": "IO Papers",
+    "description": "Two economists work through a paper in antitrust and industrial organization, about twenty minutes at a time. AI-generated for personal use: scripts written by Claude from the cited papers, voices synthesized by Google Gemini TTS.",
+    "author": "Claude + Gemini TTS",
+    "language": "en-us",
+    "category": "Science"
+  },
+  "feed_token": "12b982c4ddabbc0fac33",
+  "model": "gemini-3.8-flash-tts",
+  "speakers": {
+    "MAYA": { "name": "Maya", "voice": "Kore" },
+    "THEO": { "name": "Theo", "voice": "Charon" }
+  },
+  "words_per_minute": 150,
+  "max_chunk_chars": 3000,
+  "pause_between_chunks_s": 0.35,
+  "mp3_bitrate": "64k"
+}
