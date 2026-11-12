@@ -1,0 +1,57 @@
+name: Build episodes
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "episodes/**"
+      - "config.json"
+      - "tools/**"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild ALL ready episodes (re-synthesizes audio; uses API credits)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: build-episodes
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ensure ffmpeg
+        run: command -v ffmpeg >/dev/null || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+
+      - name: Build new episodes and feed
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 tools/build.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Commit new audio and feed
+        run: |
+          git config user.name "podcast-bot"
+          git config user.email "podcast-bot@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || (git commit -m "Build episodes" && git push)
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
