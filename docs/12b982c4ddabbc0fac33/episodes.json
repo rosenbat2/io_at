@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "2026-11-13-merger-effects-enforcement",
+    "title": "Is merger enforcement too lax? Bhattacharya, Illanes & Stillerman (AER 2026)",
+    "description": "Across a broad sample of consumer packaged goods mergers the average price effect is near zero but the spread is wide. What that means for the claim that antitrust enforcement has been lax, and what an enforcement model says would happen under a stricter standard.\n\nPaper: Bhattacharya, V., Illanes, G., and Stillerman, D. (2026). Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods. American Economic Review 116(8), 2996-3035. DOI 10.1257/aer.20240497.\n\nLink: https://doi.org/10.1257/aer.20240497\n\nSources the script was based on: the open NBER working paper 31123 (revision of August 2025), essentially the full text (main text, conclusion, most appendices), read via automated extraction; the published AER version was not read\n\nCaveats: Every figure comes from the working-paper version and may differ from the published AER version. Ranges such as the average price effect and the counterfactual price declines depend on specification, so the episode gives them approximately. The authors' enforcement thresholds are estimated from only ten challenged mergers. Not covered in the text read: whether pack-size changes are handled.\n\nAI-generated: script written by Claude, voices synthesized by Gemini TTS. Check claims against the paper.",
+    "pub_date": "2026-11-13T07:00:00",
+    "file": "2026-11-13-merger-effects-enforcement.mp3",
+    "bytes": 9798609,
+    "duration_s": 1224.73
+  }
+]

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>IO Papers</title>
+    <link>https://rosenbat2.github.io/io_at</link>
+    <description>Two economists work through a paper in antitrust and industrial organization, about twenty minutes at a time. AI-generated for personal use: scripts written by Claude from the cited papers, voices synthesized by Google Gemini TTS.</description>
+    <language>en-us</language>
+    <atom:link href="https://rosenbat2.github.io/io_at/12b982c4ddabbc0fac33/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Claude + Gemini TTS</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <itunes:category text="Science" />
+    <itunes:image href="https://rosenbat2.github.io/io_at/12b982c4ddabbc0fac33/cover.jpg" />
+    <item>
+      <title>Is merger enforcement too lax? Bhattacharya, Illanes &amp; Stillerman (AER 2026)</title>
+      <description>Across a broad sample of consumer packaged goods mergers the average price effect is near zero but the spread is wide. What that means for the claim that antitrust enforcement has been lax, and what an enforcement model says would happen under a stricter standard.
+
+Paper: Bhattacharya, V., Illanes, G., and Stillerman, D. (2026). Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods. American Economic Review 116(8), 2996-3035. DOI 10.1257/aer.20240497.
+
+Link: https://doi.org/10.1257/aer.20240497
+
+Sources the script was based on: the open NBER working paper 31123 (revision of August 2025), essentially the full text (main text, conclusion, most appendices), read via automated extraction; the published AER version was not read
+
+Caveats: Every figure comes from the working-paper version and may differ from the published AER version. Ranges such as the average price effect and the counterfactual price declines depend on specification, so the episode gives them approximately. The authors' enforcement thresholds are estimated from only ten challenged mergers. Not covered in the text read: whether pack-size changes are handled.
+
+AI-generated: script written by Claude, voices synthesized by Gemini TTS. Check claims against the paper.</description>
+      <itunes:summary>Across a broad sample of consumer packaged goods mergers the average price effect is near zero but the spread is wide. What that means for the claim that antitrust enforcement has been lax, and what an enforcement model says would happen under a stricter standard.
+
+Paper: Bhattacharya, V., Illanes, G., and Stillerman, D. (2026). Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods. American Economic Review 116(8), 2996-3035. DOI 10.1257/aer.20240497.
+
+Link: https://doi.org/10.1257/aer.20240497
+
+Sources the script was based on: the open NBER working paper 31123 (revision of August 2025), essentially the full text (main text, conclusion, most appendices), read via automated extraction; the published AER version was not read
+
+Caveats: Every figure comes from the working-paper version and may differ from the published AER version. Ranges such as the average price effect and the counterfactual price declines depend on specification, so the episode gives them approximately. The authors' enforcement thresholds are estimated from only ten challenged mergers. Not covered in the text read: whether pack-size changes are handled.
+
+AI-generated: script written by Claude, voices synthesized by Gemini TTS. Check claims against the paper.</itunes:summary>
+      <guid isPermaLink="false">2026-11-13-merger-effects-enforcement</guid>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://rosenbat2.github.io/io_at/12b982c4ddabbc0fac33/audio/2026-11-13-merger-effects-enforcement.mp3" length="9798609" type="audio/mpeg" />
+      <itunes:duration>1225</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
