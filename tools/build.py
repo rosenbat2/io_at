@@ -166,7 +166,7 @@ def gemini_chunk(turns, cfg, api_key, out_wav):
         "model": cfg["model"],
         "input": [{"type": "user_input", "content": content}],
         "response_format": {"type": "audio"},
-        "generation_config": {"speech_config": {"mode": "conversational", "speakers": speakers}},
+        "generation_config": {"speech_config": {"speakers": speakers}},
     }
     data = json.dumps(body).encode()
     last = None
