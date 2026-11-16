@@ -7,5 +7,14 @@
     "file": "2026-11-13-merger-effects-enforcement.mp3",
     "bytes": 9798609,
     "duration_s": 1224.73
+  },
+  {
+    "slug": "2026-11-16-collusion-by-exclusion",
+    "title": "Collusion by exclusion: how a bid-rigging cartel can exploit preselection (Seibel & \u0160koda, AEJ Micro 2026)",
+    "description": "A theory of how a partial bid-rigging cartel can use bidder preselection to shut out competitive rivals, a collusion marker built from near-identical opening bids, and what happened in Slovak public procurement when the preselection stage was removed in 2017.\n\nPaper: Seibel, R. and \u0160koda, S. (2026). Collusion by Exclusion in Public Procurement. American Economic Journal: Microeconomics 18(3), 148-202. DOI 10.1257/mic.20240308.\n\nLink: https://doi.org/10.1257/mic.20240308\n\nSources the script was based on: the author-hosted PDF dated August 2025 on Samuel \u0160koda's website, essentially the full text (main text, conclusion, most appendix discussion), read via automated extraction in two passes; the published AEJ Micro version was not read\n\nCaveats: All figures come from the August 2025 author version and may differ from the published article. The extraction showed small inconsistencies between the text and tables, for example the reform effect on cartel members facing each other, so those numbers are given as ranges. The convicted-cartel validation rests on one case of six firms and 274 auctions in the data. The 2017 reform bundled preselection removal with other rule changes. The euro counterfactuals are illustrative. Not covered: the published version's revisions, the extension appendices in detail.\n\nAI-generated: script written by Claude, voices synthesized by Gemini TTS. Check claims against the paper.",
+    "pub_date": "2026-11-16T07:00:00",
+    "file": "2026-11-16-collusion-by-exclusion.mp3",
+    "bytes": 9695613,
+    "duration_s": 1211.85
   }
 ]

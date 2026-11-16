@@ -13,6 +13,37 @@
     <itunes:category text="Science" />
     <itunes:image href="https://rosenbat2.github.io/io_at/12b982c4ddabbc0fac33/cover.jpg" />
     <item>
+      <title>Collusion by exclusion: how a bid-rigging cartel can exploit preselection (Seibel &amp; Škoda, AEJ Micro 2026)</title>
+      <description>A theory of how a partial bid-rigging cartel can use bidder preselection to shut out competitive rivals, a collusion marker built from near-identical opening bids, and what happened in Slovak public procurement when the preselection stage was removed in 2017.
+
+Paper: Seibel, R. and Škoda, S. (2026). Collusion by Exclusion in Public Procurement. American Economic Journal: Microeconomics 18(3), 148-202. DOI 10.1257/mic.20240308.
+
+Link: https://doi.org/10.1257/mic.20240308
+
+Sources the script was based on: the author-hosted PDF dated August 2025 on Samuel Škoda's website, essentially the full text (main text, conclusion, most appendix discussion), read via automated extraction in two passes; the published AEJ Micro version was not read
+
+Caveats: All figures come from the August 2025 author version and may differ from the published article. The extraction showed small inconsistencies between the text and tables, for example the reform effect on cartel members facing each other, so those numbers are given as ranges. The convicted-cartel validation rests on one case of six firms and 274 auctions in the data. The 2017 reform bundled preselection removal with other rule changes. The euro counterfactuals are illustrative. Not covered: the published version's revisions, the extension appendices in detail.
+
+AI-generated: script written by Claude, voices synthesized by Gemini TTS. Check claims against the paper.</description>
+      <itunes:summary>A theory of how a partial bid-rigging cartel can use bidder preselection to shut out competitive rivals, a collusion marker built from near-identical opening bids, and what happened in Slovak public procurement when the preselection stage was removed in 2017.
+
+Paper: Seibel, R. and Škoda, S. (2026). Collusion by Exclusion in Public Procurement. American Economic Journal: Microeconomics 18(3), 148-202. DOI 10.1257/mic.20240308.
+
+Link: https://doi.org/10.1257/mic.20240308
+
+Sources the script was based on: the author-hosted PDF dated August 2025 on Samuel Škoda's website, essentially the full text (main text, conclusion, most appendix discussion), read via automated extraction in two passes; the published AEJ Micro version was not read
+
+Caveats: All figures come from the August 2025 author version and may differ from the published article. The extraction showed small inconsistencies between the text and tables, for example the reform effect on cartel members facing each other, so those numbers are given as ranges. The convicted-cartel validation rests on one case of six firms and 274 auctions in the data. The 2017 reform bundled preselection removal with other rule changes. The euro counterfactuals are illustrative. Not covered: the published version's revisions, the extension appendices in detail.
+
+AI-generated: script written by Claude, voices synthesized by Gemini TTS. Check claims against the paper.</itunes:summary>
+      <guid isPermaLink="false">2026-11-16-collusion-by-exclusion</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://rosenbat2.github.io/io_at/12b982c4ddabbc0fac33/audio/2026-11-16-collusion-by-exclusion.mp3" length="9695613" type="audio/mpeg" />
+      <itunes:duration>1212</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Is merger enforcement too lax? Bhattacharya, Illanes &amp; Stillerman (AER 2026)</title>
       <description>Across a broad sample of consumer packaged goods mergers the average price effect is near zero but the spread is wide. What that means for the claim that antitrust enforcement has been lax, and what an enforcement model says would happen under a stricter standard.
 
