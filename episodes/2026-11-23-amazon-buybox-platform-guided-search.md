@@ -1,7 +1,7 @@
 ---
 title: Is Amazon's Buy Box self-preferencing? Lee & Musolff (Econometrica 2026)
 date: 2026-11-23
-status: draft
+status: ready
 paper: Lee, K. H. and Musolff, L. (2026). Two-Sided Markets Shaped by Platform-Guided Search. Econometrica 94(6), 2081-2115. DOI 10.3982/ECTA22288.
 link: https://doi.org/10.3982/ECTA22288
 sources_read: the full published Econometrica article (November 2026, pages 2081-2115) from the Econometric Society's open PDF, essentially complete text including conclusion, read via automated extraction in several passes; the online supplement and the Zenodo replication package were not read
