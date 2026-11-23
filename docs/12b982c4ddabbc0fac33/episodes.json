@@ -16,5 +16,14 @@
     "file": "2026-11-16-collusion-by-exclusion.mp3",
     "bytes": 9695613,
     "duration_s": 1211.85
+  },
+  {
+    "slug": "2026-11-23-amazon-buybox-platform-guided-search",
+    "title": "Is Amazon's Buy Box self-preferencing? Lee & Musolff (Econometrica 2026)",
+    "description": "A structural study of Amazon's Buy Box using proprietary seller-side data. About ninety-five percent of consumers look only at the featured offer, the algorithm favors Amazon's own offers, and yet the authors' counterfactuals say that favoritism is roughly consumer-surplus maximizing, because consumers also like Amazon's offers.\n\nPaper: Lee, K. H. and Musolff, L. (2026). Two-Sided Markets Shaped by Platform-Guided Search. Econometrica 94(6), 2081-2115. DOI 10.3982/ECTA22288.\n\nLink: https://doi.org/10.3982/ECTA22288\n\nSources the script was based on: the full published Econometrica article (November 2026, pages 2081-2115) from the Econometric Society's open PDF, essentially complete text including conclusion, read via automated extraction in several passes; the online supplement and the Zenodo replication package were not read\n\nCaveats: Every figure comes from automated extraction of the published article and is given approximately where the extraction was ambiguous: some table columns were misaligned, the demand elasticity appears as about minus fourteen (table value about minus thirteen point seven), the counterfactual price decline and entry increase appear as the same three percent figure and may be a typo, and the text says GMM while a table says SMM for the cost estimates. The data end in March 2020, Amazon's own sales are not observed, and the authors assume Amazon's retail arm maximizes short-run profit and that consumers and merchants do not multihome. The counterfactual benchmark is a modeling proxy for a cheapest-offer-only rule. Not covered: the online supplement, the replication code, and any reading of the working-paper versions.\n\nAI-generated: script written by Claude, voices synthesized by Gemini TTS. Check claims against the paper.",
+    "pub_date": "2026-11-23T07:00:00",
+    "file": "2026-11-23-amazon-buybox-platform-guided-search.mp3",
+    "bytes": 10336727,
+    "duration_s": 1292.0
   }
 ]

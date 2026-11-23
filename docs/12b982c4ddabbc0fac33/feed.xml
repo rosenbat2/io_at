@@ -13,6 +13,37 @@
     <itunes:category text="Science" />
     <itunes:image href="https://rosenbat2.github.io/io_at/12b982c4ddabbc0fac33/cover.jpg" />
     <item>
+      <title>Is Amazon's Buy Box self-preferencing? Lee &amp; Musolff (Econometrica 2026)</title>
+      <description>A structural study of Amazon's Buy Box using proprietary seller-side data. About ninety-five percent of consumers look only at the featured offer, the algorithm favors Amazon's own offers, and yet the authors' counterfactuals say that favoritism is roughly consumer-surplus maximizing, because consumers also like Amazon's offers.
+
+Paper: Lee, K. H. and Musolff, L. (2026). Two-Sided Markets Shaped by Platform-Guided Search. Econometrica 94(6), 2081-2115. DOI 10.3982/ECTA22288.
+
+Link: https://doi.org/10.3982/ECTA22288
+
+Sources the script was based on: the full published Econometrica article (November 2026, pages 2081-2115) from the Econometric Society's open PDF, essentially complete text including conclusion, read via automated extraction in several passes; the online supplement and the Zenodo replication package were not read
+
+Caveats: Every figure comes from automated extraction of the published article and is given approximately where the extraction was ambiguous: some table columns were misaligned, the demand elasticity appears as about minus fourteen (table value about minus thirteen point seven), the counterfactual price decline and entry increase appear as the same three percent figure and may be a typo, and the text says GMM while a table says SMM for the cost estimates. The data end in March 2020, Amazon's own sales are not observed, and the authors assume Amazon's retail arm maximizes short-run profit and that consumers and merchants do not multihome. The counterfactual benchmark is a modeling proxy for a cheapest-offer-only rule. Not covered: the online supplement, the replication code, and any reading of the working-paper versions.
+
+AI-generated: script written by Claude, voices synthesized by Gemini TTS. Check claims against the paper.</description>
+      <itunes:summary>A structural study of Amazon's Buy Box using proprietary seller-side data. About ninety-five percent of consumers look only at the featured offer, the algorithm favors Amazon's own offers, and yet the authors' counterfactuals say that favoritism is roughly consumer-surplus maximizing, because consumers also like Amazon's offers.
+
+Paper: Lee, K. H. and Musolff, L. (2026). Two-Sided Markets Shaped by Platform-Guided Search. Econometrica 94(6), 2081-2115. DOI 10.3982/ECTA22288.
+
+Link: https://doi.org/10.3982/ECTA22288
+
+Sources the script was based on: the full published Econometrica article (November 2026, pages 2081-2115) from the Econometric Society's open PDF, essentially complete text including conclusion, read via automated extraction in several passes; the online supplement and the Zenodo replication package were not read
+
+Caveats: Every figure comes from automated extraction of the published article and is given approximately where the extraction was ambiguous: some table columns were misaligned, the demand elasticity appears as about minus fourteen (table value about minus thirteen point seven), the counterfactual price decline and entry increase appear as the same three percent figure and may be a typo, and the text says GMM while a table says SMM for the cost estimates. The data end in March 2020, Amazon's own sales are not observed, and the authors assume Amazon's retail arm maximizes short-run profit and that consumers and merchants do not multihome. The counterfactual benchmark is a modeling proxy for a cheapest-offer-only rule. Not covered: the online supplement, the replication code, and any reading of the working-paper versions.
+
+AI-generated: script written by Claude, voices synthesized by Gemini TTS. Check claims against the paper.</itunes:summary>
+      <guid isPermaLink="false">2026-11-23-amazon-buybox-platform-guided-search</guid>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://rosenbat2.github.io/io_at/12b982c4ddabbc0fac33/audio/2026-11-23-amazon-buybox-platform-guided-search.mp3" length="10336727" type="audio/mpeg" />
+      <itunes:duration>1292</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Collusion by exclusion: how a bid-rigging cartel can exploit preselection (Seibel &amp; Škoda, AEJ Micro 2026)</title>
       <description>A theory of how a partial bid-rigging cartel can use bidder preselection to shut out competitive rivals, a collusion marker built from near-identical opening bids, and what happened in Slovak public procurement when the preselection stage was removed in 2017.
 
